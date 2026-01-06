@@ -29,6 +29,7 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
    - **5V** → **VCC (pin 16)**
    - **GND** → **GND (pin 8)**
    - **GND** → **OE (pin 13)** - Output enable (altid aktiv)
+     
 2. Tilslut LED'er til 74HC595 outputs:
    - Q0-Q7 (pin 15, 1-7) → 220Ω modstand → LED anode
    - Alle LED katoder → GND
@@ -63,6 +64,7 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
 - **LED kontrol:** Binær masks (1 << led_num)
 - **Max LED'er:** 8 (kan udvides med flere shift registers)
 - **Data format:** JSON fil med komponenter
+
 
 
 
