@@ -12,7 +12,8 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
 - 74HC595 Shift Register
 - 8x LED'er
 - 8x 220Ω modstande
-- Breadboard og kabler
+- USB-B kabel
+- Breadboard og jumper-wires
 
 ## 📁 Filer
 
@@ -64,3 +65,4 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
 - **LED kontrol:** Binær masks (1 << led_num)
 - **Max LED'er:** 8 (kan udvides med flere shift registers)
 - **Data format:** JSON fil med komponenter
+
