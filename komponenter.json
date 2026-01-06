@@ -1,0 +1,32 @@
+[
+  {
+    "name": "test1",
+    "drawer": "1",
+    "led": 0
+  },
+  {
+    "name": "test2",
+    "drawer": "2",
+    "led": 1
+  },
+  {
+    "name": "test3",
+    "drawer": "3",
+    "led": 2
+  },
+  {
+    "name": "test4",
+    "drawer": "4",
+    "led": 3
+  },
+  {
+    "name": "test5",
+    "drawer": "5",
+    "led": 4
+  },
+  {
+    "name": "test6",
+    "drawer": "6",
+    "led": 5
+  }
+]
