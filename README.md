@@ -2,6 +2,8 @@
 
 ## 📦 Hvad er dette?
 
+![IMG_4959](https://github.com/user-attachments/assets/c27902e1-5c41-404a-8b35-b60b215ae088)
+
 Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du søger efter en komponent i programmet, tænder den tilhørende LED automatisk for at vise hvor komponenten ligger.
 
 ## 🔧 Komponenter
@@ -64,6 +66,7 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
 - **LED kontrol:** Binær masks (1 << led_num)
 - **Max LED'er:** 8 (kan udvides med flere shift registers)
 - **Data format:** JSON fil med komponenter
+
 
 
 
