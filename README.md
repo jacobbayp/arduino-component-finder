@@ -1,7 +1,5 @@
 # Arduino Komponent Søgning System
 
-Find komponenter med Arduino og LED'er.
-
 ## 📦 Hvad er dette?
 
 Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du søger efter en komponent i programmet, tænder den tilhørende LED automatisk for at vise hvor komponenten ligger.
@@ -65,5 +63,6 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
 - **LED kontrol:** Binær masks (1 << led_num)
 - **Max LED'er:** 8 (kan udvides med flere shift registers)
 - **Data format:** JSON fil med komponenter
+
 
 
