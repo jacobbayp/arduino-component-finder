@@ -36,6 +36,8 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
    - Alle LED katoder → GND
 
 ### Software
+<img width="1402" height="980" alt="image" src="https://github.com/user-attachments/assets/6a95ee17-9ef1-4ba4-bfec-d708b9e7a2d7" />
+
 1. Upload `komponenter.ino` til Arduino
 2. Installér Python biblioteker:
 ```bash
@@ -65,6 +67,7 @@ Et system der hjælper med at finde elektroniske komponenter i skuffer. Når du 
 - **LED kontrol:** Binær masks (1 << led_num)
 - **Max LED'er:** 8 (kan udvides med flere shift registers)
 - **Data format:** JSON fil med komponenter
+
 
 
 
